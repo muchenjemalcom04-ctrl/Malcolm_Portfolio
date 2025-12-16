@@ -1,0 +1,17 @@
+x=1:20
+3^x
+dimnames to name matrixes in array
+cardata_mkanual=cardata[cardata$transmission=="Manual",]
+hist(cardata_manual$sellingprice , xlab= ,ylim=c(),main)
+
+. language barrier - natural language processing technologies oluwaseyi 2024 [ alibaba]
+. marketing in consideration of religious difference 
+- perception of time 
+- social media (subjective culture) 
+- cultural training [valiant project, 2024 feb 23]
+- e training # procedia wces-2010
+- dd
+
+-bearish[ sellers]
+-discrete / break-even stop loses 
+-ICT trading 
